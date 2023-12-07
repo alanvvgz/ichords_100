@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest package="com.ichords.app" xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <application android:allowBackup="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name" android:largeHeap="true"
+        android:name="com.ichords.app.appcomponents.di.MyApp"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true" android:theme="@style/Theme.MyApp" android:usesCleartextTraffic="true">
+        <activity
+            android:name="com.ichords.app.modules.androidlargeseven.ui.AndroidLargesevenActivity" android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.ichords.app.modules.androidlargefour.ui.AndroidLargefourActivity" android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.ichords.app.modules.androidlargethree.ui.AndroidLargethreeActivity" android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.ichords.app.modules.androidlargefive.ui.AndroidLargefiveActivity" android:screenOrientation="portrait"/>
+        <activity android:exported="true"
+            android:name="com.ichords.app.modules.frameone.ui.FrameOneActivity" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.ichords.app.modules.androidlargetwo.ui.AndroidLargetwoActivity" android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.ichords.app.modules.androidlargesix.ui.AndroidLargesixActivity" android:screenOrientation="portrait"/>
+    </application>
+</manifest>

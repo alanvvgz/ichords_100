@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">ichords_100</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet_connection">No internet connection!</string>
+<string name="lbl_aula_1_acorde">AULA 1 - ACORDE</string>
+  <string name="lbl_aula_1">AULA- 1</string>
+  <string name="msg_continuar_sem_l">CONTINUAR SEM LOGIN</string>
+  <string name="lbl_atividade">ATIVIDADE</string>
+  <string name="lbl_fa">FA</string>
+  <string name="lbl_teoria">TEORIA</string>
+  <string name="lbl_criar_conta">CRIAR CONTA</string>
+  <string name="lbl_postura">POSTURA</string>
+  <string name="msg_ir_para_ativida">IR PARA ATIVIDADE</string>
+  <string name="msg_qual_nota_pode">QUAL NOTA PODE SER OUVIDA?</string>
+  <string name="lbl_iniciar">INICIAR</string>
+  <string name="lbl_do">DO</string>
+  <string name="lbl_nome"> Nome :</string>
+  <string name="lbl_6_6">6/6</string>
+  <string name="lbl_e_mail"> E-mail :</string>
+  <string name="lbl_senha"> Senha :</string>
+  <string name="msg_j_tem_uma_cont">Já tem uma conta? </string>
+  <string name="msg_n_o_tem_uma_con">Não tem uma conta? </string>
+  <string name="lbl_assistir">ASSISTIR</string>
+  <string name="lbl_ichords">ICHORDS</string>
+  <string name="lbl_acorde">ACORDE</string>
+  <string name="msg_clodoaldo_cleit">Clodoaldo Cleiton</string>
+  <string name="lbl_1_6">1/6</string>
+  <string name="lbl_0_6">0/6</string>
+  <string name="lbl_mi">MI</string>
+  <string name="lbl_mpb">MPB</string>
+  <string name="lbl_emblemas">EMBLEMAS</string>
+  <string name="lbl_ou">ou</string>
+  <string name="msg_prefer_ncia_mus">PREFERÊNCIA MUSICAL</string>
+  <string name="lbl_afina_o">AFINAÇÃO</string>
+  <string name="lbl_esqueci_a_senha">Esqueci a senha</string>
+  <string name="lbl_criar">Criar</string>
+  <string name="lbl_entrar2">Entrar</string>
+  <string name="lbl_entrar">ENTRAR</string>
+  <string name="msg_repetir_a_senha"> Repetir a senha :</string>
+  <string name="lbl_e">E</string>
+  <string name="lbl_musical">MUSICAL</string>
+  <string name="lbl_re">RE</string>
+</resources>
