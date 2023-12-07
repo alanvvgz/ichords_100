@@ -21,7 +21,7 @@ Passo 4: Compilar e Executar o Projeto:
 
 No Android Studio, clique no botão "Run" ou use Shift + F10 para compilar e executar o projeto. Selecione o dispositivo virtual que você configurou no Passo 3 ou conecte um dispositivo físico. Aguarde o Android Studio compilar o projeto e iniciar o aplicativo.
 
-Built with AndroidX Support
+### Built with AndroidX Support
 
 Requires Android Studio Arctic Fox | 2020.3.1 or higher.
 
