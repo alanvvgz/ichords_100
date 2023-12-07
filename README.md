@@ -5,7 +5,7 @@
 
 Passo 1: Clonar o Repositório:
 
-Abra o terminal e navegue até o diretório em que você deseja clonar o projeto. Execute o seguinte comando para clonar o repositório do projeto: Bash git clone https://github.com/LuisVFCO/CodigoFonteAS.git
+Abra o Prompt de comando/terminal e navegue até o diretório em que você deseja clonar o projeto. Execute o seguinte comando para clonar o repositório do projeto: git clone https://github.com/alanvvgz/ichords_100.git
 
 Passo 2: Abrir o Projeto no Android Studio:
 
